@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct personListView: View {
-    var name = "VADC"
+    var name = ""
     var body: some View {
         Text(name)
     }
